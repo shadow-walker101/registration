@@ -1,5 +1,5 @@
 
-## Hospital Registration APP
+## BASIC HOSPITAL REGISTRATION APP
 
 ### Authors
 
